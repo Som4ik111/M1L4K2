@@ -95,3 +95,5 @@ python main.py
 
 Примеры работы бота:
 <img width="531" height="609" alt="image" src="https://github.com/user-attachments/assets/6dd31909-21db-4210-8d17-6b0ee74611c3" />
+<img width="525" height="513" alt="image" src="https://github.com/user-attachments/assets/557b3c1e-974d-4115-b131-5bb1a43013ea" />
+
